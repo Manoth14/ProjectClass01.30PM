@@ -22,6 +22,21 @@ public class Class1 {
 
 	}
 
+	private void india() {
+		System.out.println("india");
+
+	}
+
+	private void america() {
+		System.out.println("america");
+
+	}
+
+	private void australia() {
+		System.out.println("australia");
+
+	}
+
 	private void vijay() {
 		System.out.println("vijay");
 

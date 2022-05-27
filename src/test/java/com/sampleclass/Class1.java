@@ -37,4 +37,19 @@ public class Class1 {
 
 	}
 
+	private void vijay() {
+		System.out.println("vijay");
+
+	}
+
+	private void ajith() {
+		System.out.println("ajith");
+
+	}
+
+	private void surya() {
+		System.out.println("surya");
+
+	}
+
 }

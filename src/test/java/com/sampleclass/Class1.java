@@ -16,9 +16,24 @@ public class Class1 {
 		System.out.println("3");
 
 	}
-	
+
 	private void method4() {
 		System.out.println("4");
+
+	}
+
+	private void india() {
+		System.out.println("india");
+
+	}
+
+	private void america() {
+		System.out.println("america");
+
+	}
+
+	private void australia() {
+		System.out.println("australia");
 
 	}
 
